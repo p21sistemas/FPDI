@@ -17,7 +17,7 @@ namespace setasign\Fpdi;
  *
  * @package setasign\Fpdi
  */
-class FpdfTpl extends \FPDF
+class FpdfTpl extends \FPDF2
 {
     /**
      * Data of all created templates.
